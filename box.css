@@ -1,0 +1,14 @@
+div{
+    background-color: brown;
+    height: 100px;
+    width: 400px;
+    margin-left: 544px;
+    margin-top: 300px;
+    padding-left: 20px;
+    padding-top: 20px;
+    border: 5px bisque double;
+    border-radius: 50px;
+}
+p{
+    color: bisque;
+}
